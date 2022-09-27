@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactbootstrap/static/css/main.29cd549e.css",
+    "main.js": "/reactbootstrap/static/js/main.1ddc7ac8.js",
+    "static/js/787.9caf417c.chunk.js": "/reactbootstrap/static/js/787.9caf417c.chunk.js",
+    "index.html": "/reactbootstrap/index.html",
+    "main.29cd549e.css.map": "/reactbootstrap/static/css/main.29cd549e.css.map",
+    "main.1ddc7ac8.js.map": "/reactbootstrap/static/js/main.1ddc7ac8.js.map",
+    "787.9caf417c.chunk.js.map": "/reactbootstrap/static/js/787.9caf417c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29cd549e.css",
+    "static/js/main.1ddc7ac8.js"
+  ]
+}
